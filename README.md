@@ -16,10 +16,10 @@
 
 ## Results
 ### Faultlines
-![Deliverable 1](https://github.com/li-emily/mapping_earthquakes/earthquake_challenge/images/deliverable1)
+![Deliverable 1](https://github.com/li-emily/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/Deliverable1.png)
 
 ### Major Earthquakes
-![Deliverable 2](https://github.com/li-emily/mapping_earthquakes/earthquake_challenge/images/deliverable2)
+![Deliverable 2](https://github.com/li-emily/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/Deliverable2.png)
 
 ### Additional Map Overlay
-![Deliverable 1](https://github.com/li-emily/mapping_earthquakes/earthquake_challenge/images/deliverable3)
+![Deliverable 1](https://github.com/li-emily/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/Deliverable3.png)
